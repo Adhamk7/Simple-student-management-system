@@ -1,21 +1,4 @@
-name1 = "Adham"
-age = 19
-
-if age >= 18:
-
-    state = "an adult"
-    print("My name is " + name1 + " and I am " + state)
-
-i = 0
-
-for i in range(6):
-    print(i)
-
-def greet(name):
-    print("Hello", name)
-
-greet("Adham")
-
+#Simple student management system#
 students = []
 
 def add_student():
