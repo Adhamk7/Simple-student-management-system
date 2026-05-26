@@ -1,2 +1,8 @@
-# First-Repo
-Testing What i can do using this website
+# Student Management System
+
+A simple Python project for managing students.
+
+## Features
+- Add students
+- Show students
+- Search students
